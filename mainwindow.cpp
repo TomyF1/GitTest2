@@ -18,7 +18,8 @@ void MainWindow::on_Text_clicked()
 {
    // QApplication::quit();
 
-    ui->Anzeige->setPlainText("Tom");
+    ui->Anzeige->setPlainText(" Die Super Programmierer: Tom");
+
 }
 
 void MainWindow::on_Aus_clicked()
